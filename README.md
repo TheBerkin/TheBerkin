@@ -1,4 +1,4 @@
-### Hi! I'm Robin.
+### Hi! I'm Robin. :wave:
 
 I've been building software (both professionally and otherwise) since 2010. I love anything to do with procedural generation, DSLs, compilers, interpreters, and gamedev tools.
 
